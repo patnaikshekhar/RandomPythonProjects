@@ -1,0 +1,7 @@
+import urllib
+
+def main():
+    print "Hello"
+
+if __init__ == '__main__':
+    def main()

@@ -1,0 +1,5 @@
+import pymongo
+
+score_finder = {"need": 4, "want": 3, "must have": 5, "good": 1,
+                "nice": 2, "awesome": 2, "buy": 5, "cost": 1,
+                "nice": 2, "awesome": 2, "buy": 5, "cost": 1,

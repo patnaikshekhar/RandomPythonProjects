@@ -1,0 +1,8 @@
+class ListNode:
+    item = 0
+    next = None
+    def __init__(self, item, next):
+        self.item = item
+        self.next = next
+
+a = ListNode(1, None)
